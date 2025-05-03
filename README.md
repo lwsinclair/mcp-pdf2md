@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/futureunreal-mcp-pdf2md-badge.png)](https://mseep.ai/app/futureunreal-mcp-pdf2md)
+
 # MCP-PDF2MD
 
 [![smithery badge](https://smithery.ai/badge/@FutureUnreal/mcp-pdf2md)](https://smithery.ai/server/@FutureUnreal/mcp-pdf2md)
